@@ -22,5 +22,5 @@ Add this to your module's `build.gradle` file:
 ```gradle
 dependencies {
     ...
-    compile 'com.github.WideWebMobile:AndroidUtils:0.0.1'
+    compile 'com.github.WideWebMobile:AndroidUtils:0.0.2'
 }
